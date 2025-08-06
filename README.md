@@ -1,7 +1,7 @@
 
 # 🧠 Git Workshop – Introducción y Objetivos
 
-Bienvenidos al **Workshop de Control de Versiones con Git**, diseñado para una audiencia de +90 coders que están iniciando su camino en tecnología y desarrollo colaborativo.
+Bienvenidos al **Workshop de Control de Versiones con Git**, diseñado coders que están iniciando su camino en tecnología y desarrollo colaborativo.
 
 Este taller es 100% práctico y progresivo, abarcando desde lo básico hasta flujos colaborativos reales como Pull Requests, integración de ramas y resolución de conflictos.
 
