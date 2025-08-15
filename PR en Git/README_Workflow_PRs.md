@@ -1,4 +1,4 @@
-# Guía Complea: Configurar y Trabajar **solo con Pull Requests** (PR)
+# Guía Completa: Configurar y Trabajar **solo con Pull Requests** (PR)
 
 > **Objetivo:** Que tu equipo trabaje **siempre** mediante Pull Requests para integrar cambios, con ramas protegidas, revisiones obligatorias y buenas prácticas claras.  
 > **Público:** Coders que inician con Git y colaboración.
@@ -116,22 +116,22 @@
 
 ### 6.1. Preparar entorno local (una vez)
 ```bash
-git clone <url-del-repo>
-cd <carpeta>
-git config user.name "<Tu Nombre>"
-git config user.email "<tu@correo>"
-git fetch --all
+git clone <url-del-repo>         # Descarga el repositorio remoto
+cd <carpeta>                     # Entra a la carpeta del proyecto
+git config user.name "<Tu Nombre>"   # Configura tu nombre
+git config user.email "<tu@correo>" # Configura tu correo
+git fetch --all                  # Actualiza toda la información remota
 ```
 
 ### 6.2. Crear una feature
 ```bash
-git checkout develop
-git pull
-git checkout -b feature/formulario-contacto
+git checkout develop             # Cambia a la rama de integración
+git pull                         # Actualiza la rama
+git checkout -b feature/formulario-contacto   # Crea y cambia a una nueva rama
 # (editar archivos, implementar cambios)
-git add -A
-git commit -m "feat: agrega formulario de contacto"
-git push -u origin feature/formulario-contacto
+git add -A                       # Prepara todos los cambios
+git commit -m "feat: agrega formulario de contacto"   # Guarda los cambios con mensaje claro
+git push -u origin feature/formulario-contacto        # Sube la rama al remoto
 ```
 
 ### 6.3. Abrir PR
