@@ -31,6 +31,7 @@ git tag v1.0             # Crea una etiqueta llamada v1.0
 git push origin --tags   # Sube las etiquetas al repositorio remoto
 ```
 
+
 ### 3. **Cherry-pick**
 Trae un commit específico de otra rama usando su identificador (hash).
 
