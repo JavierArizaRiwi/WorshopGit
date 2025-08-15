@@ -142,7 +142,7 @@ git push -u origin feature/feature-a-ui
 
 ---
 
-### 4.3. Bloque 3 – Integración y conflictos (35–45 min)
+### 4.3. Bloque 3 – Integración y conflictos 
 **Conflicto controlado (facilitador):**
 - Pide a **Dev A** y **Dev B** editar la **misma línea** en `src/utils/calc.js` en ramas diferentes.
 - Ambos hacen commit/push y abren PR.
@@ -163,7 +163,7 @@ git push
 
 ---
 
-### 4.4. Bloque 4 – Release y tag (25–35 min)
+### 4.4. Bloque 4 – Release y tag 
 **Lead corta una rama de release desde `develop`:**
 ```bash
 git checkout develop
@@ -195,7 +195,7 @@ git push
 
 ---
 
-### 4.5. Bloque 5 – Hotfix (15–25 min)
+### 4.5. Bloque 5 – Hotfix 
 **QA** abre un issue crítico encontrado en `main`.  
 **Lead** crea rama `hotfix/*` desde `main`:
 ```bash
