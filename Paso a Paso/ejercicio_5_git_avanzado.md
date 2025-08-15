@@ -23,8 +23,10 @@ git stash list           # Muestra la lista de cambios guardados
 git stash apply          # Recupera los cambios guardados
 ```
 
+
 ### 2. **Crea una etiqueta (tag)**
 Marca una versión importante del proyecto.
+
 
 ```bash
 git tag v1.0             # Crea una etiqueta llamada v1.0
