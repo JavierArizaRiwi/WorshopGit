@@ -62,6 +62,7 @@
 
 > **Bitbucket**: Repos → Settings → **Branch permissions** (muy similar).
 
+
 ---
 
 ## 5) Plantillas que ayudan (colocar en tu repo)

@@ -23,13 +23,16 @@ git stash list           # Muestra la lista de cambios guardados
 git stash apply          # Recupera los cambios guardados
 ```
 
+
 ### 2. **Crea una etiqueta (tag)**
 Marca una versión importante del proyecto.
+
 
 ```bash
 git tag v1.0             # Crea una etiqueta llamada v1.0
 git push origin --tags   # Sube las etiquetas al repositorio remoto
 ```
+
 
 ### 3. **Cherry-pick**
 Trae un commit específico de otra rama usando su identificador (hash).

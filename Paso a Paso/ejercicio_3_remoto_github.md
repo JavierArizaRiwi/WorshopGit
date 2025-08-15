@@ -1,5 +1,6 @@
 # Ejercicio 3 – Conectando con GitHub
 ## Objetivo
+
 Subir el repositorio a GitHub y aprender a trabajar con repositorios remotos.
 
 ---
