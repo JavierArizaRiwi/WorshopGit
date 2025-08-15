@@ -17,6 +17,7 @@ Inicializar y versionar un proyecto básico.
    git add README.md
    git commit -m "Primer commit"
    ```
+   
 4. Verifica el historial:
    ```bash
    git status

@@ -14,6 +14,7 @@ Inicializa un nuevo repositorio Git en el directorio actual.
 git init
 ```
 
+
 ### 🔹 `git clone <url>`
 Clona un repositorio remoto a tu máquina local.  
 **Sirve para obtener una copia de un proyecto existente desde GitHub u otro servidor.**
